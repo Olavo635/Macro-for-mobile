@@ -1,0 +1,8 @@
+{
+  "id": "macro_buttons",
+  "name": "Macro Buttons (Alt + Key)",
+  "version": "1.0.0",
+  "author": "Voce",
+  "description": "Botoes flutuantes para macros Alt+Tecla no LeviLauncher",
+  "entry": "libMacroButtons.so"
+}
